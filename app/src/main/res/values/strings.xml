@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activityanimations</string>
+    <string name="settings">settings</string>
+    <string name="go_to_previous_activity">Go to Previous Activity</string>
+</resources>
